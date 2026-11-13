@@ -4,7 +4,7 @@ window.A = window.A || {};
 
 A.CONFIG = {
   // 화면에 보이는 앱 이름
-  title: { ko: '나와 우리 집', en: 'Me and My Home', icon: '🏠' },
+  title: { ko: '나와 우리집 영어 놀이', en: 'Me and My Home', icon: '🏠' },
   // 기기에 저장하는 값의 이름표. 앱마다 달라야 서로 섞이지 않는다
   storagePrefix: 'me-and-home',
   // 시작 화면 (주인공은 기준그림 코끼리)
